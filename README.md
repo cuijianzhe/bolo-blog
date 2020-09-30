@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [如何使用PLSQL Developer 链接远程oracle数据库](https://39.97.161.115/articles/2020/09/30/1601431603443.html)
+* [如何使用自己的注解](https://39.97.161.115/articles/2020/09/29/1601357290151.html)
 * [Oracle中查看最近被修改过的表的方法](https://39.97.161.115/articles/2020/09/27/1601192953949.html)
 * [Unable to import Maven project](https://39.97.161.115/articles/2020/09/24/1600938124541.html)
 * [FTPUtil工具类](https://39.97.161.115/articles/2020/09/18/1600392442485.html)
@@ -28,8 +30,6 @@
 * [java从hdfs下载文件/下载整个文件夹](https://39.97.161.115/articles/2020/07/31/1596184855555.html)
 * [java上传文件或文件夹到hdfs](https://39.97.161.115/articles/2020/07/30/1596106295313.html)
 * [Haproxy](https://39.97.161.115/articles/2020/07/29/1596024607735.html)
-* [使用mysql统计表中本周每一天的数量](https://39.97.161.115/articles/2020/07/29/1596021588286.html)
-* [Springboot整合mybatis-plus分页](https://39.97.161.115/articles/2020/07/28/1595908685910.html)
 
 
 
