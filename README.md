@@ -10,6 +10,9 @@
 
 ### 最新
 
+* [崩溃](https://39.97.161.115/articles/2020/10/31/1604112300675.html)
+* [Intellij Idea 修改右键弹出菜单](https://39.97.161.115/articles/2020/10/30/1604038517882.html)
+* [利用Python对windows桌面自动更换壁纸](https://39.97.161.115/articles/2020/10/29/1603943310078.html)
 * [Mybatis-plus 的 mapper.xml 热加载](https://39.97.161.115/articles/2020/10/23/1603449220417.html)
 * [Maven版本依赖关系【多图预警!!!】](https://39.97.161.115/articles/2020/10/15/1602773988486.html)
 * [Java使用MongDB分页查询数据](https://39.97.161.115/articles/2020/10/13/1602562750104.html)
@@ -27,9 +30,6 @@
 * [Docker里部署Nginx镜像](https://39.97.161.115/articles/2020/09/02/1599016529798.html)
 * [修改数据库名的一种方法](https://39.97.161.115/articles/2020/08/23/1598183280801.html)
 * [Django 3.1 官网学习路线](https://39.97.161.115/articles/2020/08/17/1597665317545.html)
-* [关于 Kubernetes 的这些原理，你一定要了解](https://39.97.161.115/articles/2020/08/15/1597459617030.html)
-* [腾讯云数据库？](https://39.97.161.115/articles/2020/08/12/1597200121515.html)
-* [requests.exceptions.SSLError: HTTPSConnectionPool](https://39.97.161.115/articles/2020/08/08/1596867654155.html)
 
 
 
