@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [jQuery图片查看器插件Viewer.js](https://117.50.64.121/articles/2021/01/19/1611042368847.html)
 * [java发送邮件的代码（很nice版）](https://117.50.64.121/articles/2021/01/16/1610799202500.html)
 * [JDK8 函数式接口Consumer](https://117.50.64.121/articles/2021/01/15/1610682061990.html)
 * [到底如何区分Spring和SpringMVC的注解？](https://117.50.64.121/articles/2021/01/14/1610617006196.html)
@@ -29,7 +30,6 @@
 * [l2tp over ipsec添加用户登陆日志](https://117.50.64.121/articles/2020/12/08/1607423229345.html)
 * [有痔青年的一天](https://117.50.64.121/articles/2020/12/07/1607324800586.html)
 * [oracle导入导出dmp文件](https://117.50.64.121/articles/2020/12/02/1606897629822.html)
-* [oracle创建用户和表空间](https://117.50.64.121/articles/2020/12/02/1606896650958.html)
 
 
 
