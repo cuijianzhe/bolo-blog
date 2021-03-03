@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [记一次公司被通报批评](https://117.50.64.121/articles/2021/03/02/1614678190870.html)
 * [yapi 集成LDAP配置文件](https://117.50.64.121/articles/2021/02/28/1614504634614.html)
 * [Idea不靠Main方法运行Java代码](https://117.50.64.121/articles/2021/02/08/1612775196273.html)
 * [IDEA生成代码插件MybatisHelperPro](https://117.50.64.121/articles/2021/02/03/1612323171006.html)
@@ -29,7 +30,6 @@
 * [poi创建冻结窗口](https://117.50.64.121/articles/2020/12/31/1609377331431.html)
 * [Django 使用ldap认证细节](https://117.50.64.121/articles/2020/12/26/1608967701991.html)
 * [docker安装openldap](https://117.50.64.121/articles/2020/12/26/1608954747714.html)
-* [不错的html-jquery开源标签插件](https://117.50.64.121/articles/2020/12/16/1608106179503.html)
 
 
 
