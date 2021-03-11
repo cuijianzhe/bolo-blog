@@ -13,7 +13,7 @@
 * [搭建SpringBoot+dubbo+zookeeper+maven框架(转载)](https://117.50.64.121/articles/2021/03/09/1615282956766.html)
 * [java翻转字符串几种方法](https://117.50.64.121/articles/2021/03/09/1615258849247.html)
 * [Oracle sql对SORTNUM排序问题](https://117.50.64.121/articles/2021/03/08/1615190665844.html)
-* [记一次公司被通报批评](https://117.50.64.121/articles/2021/03/02/1614678190870.html)
+* [记一次被公司通报批评](https://117.50.64.121/articles/2021/03/02/1614678190870.html)
 * [yapi 集成LDAP配置文件](https://117.50.64.121/articles/2021/02/28/1614504634614.html)
 * [Idea不靠Main方法运行Java代码](https://117.50.64.121/articles/2021/02/08/1612775196273.html)
 * [IDEA生成代码插件MybatisHelperPro](https://117.50.64.121/articles/2021/02/03/1612323171006.html)
