@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [（转）假如我是超级内卷王......](https://117.50.64.121/articles/2021/06/08/1623147189644.html)
 * [oracle的树形结构使用](https://117.50.64.121/articles/2021/05/28/1622168006080.html)
 * [FileURLConnention cannot be cast to java.net.HttpURLConnection](https://117.50.64.121/articles/2021/05/27/1622103516441.html)
 * [zabbix添加监控Sangfor AC监控](https://117.50.64.121/articles/2021/05/18/1621325983655.html)
@@ -29,7 +30,6 @@
 * [HTTP 响应代码](https://117.50.64.121/articles/2021/03/16/1615856788363.html)
 * [SpringBoot 三招组合拳，打造出优雅的后端接口(转)](https://117.50.64.121/articles/2021/03/15/1615786891457.html)
 * [2021年两会闭幕](https://117.50.64.121/articles/2021/03/13/1615606827047.html)
-* [vnote初始配置](https://117.50.64.121/articles/2021/03/11/1615429446249.html)
 
 
 
