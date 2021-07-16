@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [截取List进行分页](https://null:-1/articles/2021/07/16/1626405000724.html)
 * [时刻关注最新文件](https://null:-1/articles/2021/07/09/1625793761228.html)
 * [No active profile set, falling back to default profiles: default](https://null:-1/articles/2021/06/30/1625023474146.html)
 * [MergeSort（归并排序）算法Java实现（转）](https://null:-1/articles/2021/06/28/1624847458346.html)
@@ -29,7 +30,6 @@
 * [redis批量修改查询key](https://null:-1/articles/2021/04/03/1617425259423.html)
 * [初识java8的函数式编程](https://null:-1/articles/2021/04/01/1617283173600.html)
 * [查询列表接口实现无痕分页](https://null:-1/articles/2021/03/31/1617152560243.html)
-* [windows换一个声音主题](https://null:-1/articles/2021/03/27/1616850416424.html)
 
 
 
