@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Mybatis二级缓存](https://117.50.64.121/articles/2021/08/14/1628906975188.html)
 * [Git中文命令[参数]大全](https://117.50.64.121/articles/2021/07/23/1628691299476.html)
 * [Mybatis一级缓存总结](https://117.50.64.121/articles/2021/07/23/1628692149983.html)
 * [Tucao](https://117.50.64.121/articles/2021/08/05/1628152013645.html)
@@ -29,7 +30,6 @@
 * [easypoi通过模板循环生成数据时合并单元格失效问题](https://117.50.64.121/articles/2021/06/17/1623921677620.html)
 * [（转）假如我是超级内卷王......](https://117.50.64.121/articles/2021/06/08/1623147189644.html)
 * [oracle的树形结构使用](https://117.50.64.121/articles/2021/05/28/1622168006080.html)
-* [FileURLConnention cannot be cast to java.net.HttpURLConnection](https://117.50.64.121/articles/2021/05/27/1622103516441.html)
 
 
 
