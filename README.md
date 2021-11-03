@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [单例模式的几种实现方式汇总](https://117.50.64.121/articles/2021/11/02/1635847756699.html)
 * [zabbix的systemctl启动管理](https://117.50.64.121/articles/2021/10/28/1635404018903.html)
 * [备份数据到同一实例下的其他数据库操作](https://117.50.64.121/articles/2021/09/01/1630476736907.html)
 * [使用Clion创建运行C++代码](https://117.50.64.121/articles/2021/08/29/1630168042484.html)
@@ -29,7 +30,6 @@
 * [截取List进行分页](https://117.50.64.121/articles/2021/07/16/1626405000724.html)
 * [时刻关注最新文件](https://117.50.64.121/articles/2021/07/09/1625793761228.html)
 * [No active profile set, falling back to default profiles: default](https://117.50.64.121/articles/2021/06/30/1625023474146.html)
-* [MergeSort（归并排序）算法Java实现（转）](https://117.50.64.121/articles/2021/06/28/1624847458346.html)
 
 
 
