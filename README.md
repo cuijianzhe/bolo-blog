@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Spring Aop实现动态获取mapper执行的SQL](https://117.50.64.121/articles/2021/12/08/1638955999673.html)
 * [Docker安装配置mysql镜像](https://117.50.64.121/articles/2021/12/03/1638513021734.html)
 * [Docker安装配置nginx镜像](https://117.50.64.121/articles/2021/12/03/1638511535202.html)
 * [Mysql执行计划](https://117.50.64.121/articles/2021/12/01/1638348062390.html)
@@ -29,7 +30,6 @@
 * [Mybatis二级缓存](https://117.50.64.121/articles/2021/08/14/1628906975188.html)
 * [Git中文命令[参数]大全](https://117.50.64.121/articles/2021/07/23/1628691299476.html)
 * [Mybatis一级缓存总结](https://117.50.64.121/articles/2021/07/23/1628692149983.html)
-* [Tucao](https://117.50.64.121/articles/2021/08/05/1628152013645.html)
 
 
 
