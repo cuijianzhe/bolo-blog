@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Spring的30个关键类](https://null:-1/articles/2022/01/20/1642672101433.html)
 * [vmware添加硬盘识别问题](https://null:-1/articles/2022/01/04/1641281074919.html)
 * [windows使用sonarqube测试覆盖率](https://null:-1/articles/2021/12/17/1639729059800.html)
 * [Junit4单元测试web接口和service方法](https://null:-1/articles/2021/12/17/1639728939461.html)
@@ -29,7 +30,6 @@
 * [zabbix编译安装时的systemctl启动管理](https://null:-1/articles/2021/10/28/1635404018903.html)
 * [备份数据到同一实例下的其他数据库操作](https://null:-1/articles/2021/09/01/1630476736907.html)
 * [使用Clion创建运行C++代码](https://null:-1/articles/2021/08/29/1630168042484.html)
-* [Jdk动态代理和cglib动态代理使用方法](https://null:-1/articles/2021/08/23/1629679845539.html)
 
 
 
