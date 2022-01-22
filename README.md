@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [confluence自启动](https://null:-1/articles/2022/01/21/1642779793133.html)
 * [Spring的30个关键类](https://null:-1/articles/2022/01/20/1642672101433.html)
 * [vmware添加硬盘识别问题](https://null:-1/articles/2022/01/04/1641281074919.html)
 * [windows使用sonarqube测试覆盖率](https://null:-1/articles/2021/12/17/1639729059800.html)
@@ -29,7 +30,6 @@
 * [单例模式的几种实现方式汇总](https://null:-1/articles/2021/11/02/1635847756699.html)
 * [zabbix编译安装时的systemctl启动管理](https://null:-1/articles/2021/10/28/1635404018903.html)
 * [备份数据到同一实例下的其他数据库操作](https://null:-1/articles/2021/09/01/1630476736907.html)
-* [使用Clion创建运行C++代码](https://null:-1/articles/2021/08/29/1630168042484.html)
 
 
 
