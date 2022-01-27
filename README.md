@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [修改Hostname值](https://null:-1/articles/2022/01/27/1643251072876.html)
 * [confluence自启动](https://null:-1/articles/2022/01/21/1642779793133.html)
 * [Spring的30个关键类](https://null:-1/articles/2022/01/20/1642672101433.html)
 * [vmware添加硬盘识别问题](https://null:-1/articles/2022/01/04/1641281074919.html)
@@ -29,7 +30,6 @@
 * [centos查看编译参数](https://null:-1/articles/2021/11/18/1637231574043.html)
 * [单例模式的几种实现方式汇总](https://null:-1/articles/2021/11/02/1635847756699.html)
 * [zabbix编译安装时的systemctl启动管理](https://null:-1/articles/2021/10/28/1635404018903.html)
-* [备份数据到同一实例下的其他数据库操作](https://null:-1/articles/2021/09/01/1630476736907.html)
 
 
 
