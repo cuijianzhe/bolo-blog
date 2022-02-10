@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [SpringBoot线程池和异步任务](https://null:-1/articles/2022/02/09/1644397241317.html)
 * [排查java项目中的死锁和死循环](https://null:-1/articles/2022/02/03/1643879655765.html)
 * [修改Hostname值](https://null:-1/articles/2022/01/27/1643251072876.html)
 * [confluence自启动](https://null:-1/articles/2022/01/21/1642779793133.html)
@@ -29,7 +30,6 @@
 * [Docker安装Oracle11g镜像](https://null:-1/articles/2021/11/18/1637248775558.html)
 * [JDK8的日期时间操作](https://null:-1/articles/2021/11/18/1637248232075.html)
 * [centos查看编译参数](https://null:-1/articles/2021/11/18/1637231574043.html)
-* [单例模式的几种实现方式汇总](https://null:-1/articles/2021/11/02/1635847756699.html)
 
 
 
