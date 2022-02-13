@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [volatile关键字的理解](https://null:-1/articles/2022/02/13/1644715920039.html)
+* [synchronized关键字的理解](https://null:-1/articles/2022/02/13/1644715710062.html)
 * [SpringBoot线程池和异步任务](https://null:-1/articles/2022/02/09/1644397241317.html)
 * [排查java项目中的死锁和死循环](https://null:-1/articles/2022/02/03/1643879655765.html)
 * [修改Hostname值](https://null:-1/articles/2022/01/27/1643251072876.html)
@@ -28,8 +30,6 @@
 * [一句话归纳设计模式](https://null:-1/articles/2021/11/23/1637677059423.html)
 * [一句话归纳七大设计原则](https://null:-1/articles/2021/11/20/1637368319773.html)
 * [Docker安装Oracle11g镜像](https://null:-1/articles/2021/11/18/1637248775558.html)
-* [JDK8的日期时间操作](https://null:-1/articles/2021/11/18/1637248232075.html)
-* [centos查看编译参数](https://null:-1/articles/2021/11/18/1637231574043.html)
 
 
 
