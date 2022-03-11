@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [RabbitMQ单机实装简单测试](https://null:-1/articles/2022/03/10/1646899951655.html)
 * [RocketMQ的安装](https://null:-1/articles/2022/03/08/1646708577038.html)
 * [Synchronized和Lock怎么选?](https://null:-1/articles/2022/02/28/1646026876357.html)
 * [volatile关键字的理解](https://null:-1/articles/2022/02/13/1644715920039.html)
@@ -29,7 +30,6 @@
 * [前端html之前传递中文参数乱码](https://null:-1/articles/2021/11/30/1638254403311.html)
 * [自定义jdk8的Stream流的收集器](https://null:-1/articles/2021/11/24/1637763110122.html)
 * [总结归纳Spring的注解](https://null:-1/articles/2021/11/24/1637762849451.html)
-* [一句话归纳设计模式](https://null:-1/articles/2021/11/23/1637677059423.html)
 
 
 
