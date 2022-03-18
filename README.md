@@ -10,7 +10,7 @@
 
 ### 最新
 
-* [使用jvisualvm分析linux的java进程的dump文件](https://null:-1/articles/2022/03/15/1647327044536.html)
+* [分析linux的java进程的dump文件](https://null:-1/articles/2022/03/15/1647327044536.html)
 * [（转）雪花算法snowflake](https://null:-1/articles/2022/03/14/1647248989971.html)
 * [RabbitMQ单机实装简单测试](https://null:-1/articles/2022/03/10/1646899951655.html)
 * [RocketMQ的安装](https://null:-1/articles/2022/03/08/1646708577038.html)
