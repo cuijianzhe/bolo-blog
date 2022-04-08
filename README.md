@@ -10,6 +10,14 @@
 
 ### 最新
 
+* [树(4)平衡二叉树AVL](https://null:-1/articles/2022/04/08/1649399935384.html)
+* [树(5)红黑树](https://null:-1/articles/2022/04/08/1649401112733.html)
+* [树(6)哈夫曼树](https://null:-1/articles/2022/04/08/1649401258520.html)
+* [树(7)B-树](https://null:-1/articles/2022/04/08/1649401388460.html)
+* [树(8)B+树](https://null:-1/articles/2022/04/08/1649401457496.html)
+* [树(3)二叉搜索树](https://null:-1/articles/2022/04/08/1649399838593.html)
+* [树(2)基础二叉树](https://null:-1/articles/2022/04/08/1649398871841.html)
+* [树(1)什么是树](https://null:-1/articles/2022/04/08/1649398380957.html)
 * [面试官：讲讲你对ConcurrentHashMap的理解](https://null:-1/articles/2022/04/03/1648949875595.html)
 * [模糊查询输入%和_会查询全部的问题](https://null:-1/articles/2022/04/01/1648780777601.html)
 * [java线上故障排查方案](https://null:-1/articles/2022/03/31/1648720724120.html)
@@ -22,14 +30,6 @@
 * [分析linux的java进程的dump文件](https://null:-1/articles/2022/03/15/1647327044536.html)
 * [（转）雪花算法snowflake](https://null:-1/articles/2022/03/14/1647248989971.html)
 * [Synchronized和Lock怎么选?](https://null:-1/articles/2022/02/28/1646026876357.html)
-* [volatile关键字的理解](https://null:-1/articles/2022/02/13/1644715920039.html)
-* [synchronized关键字的理解](https://null:-1/articles/2022/02/13/1644715710062.html)
-* [SpringBoot线程池和异步任务](https://null:-1/articles/2022/02/09/1644397241317.html)
-* [排查java项目中的死锁和死循环](https://null:-1/articles/2022/02/03/1643879655765.html)
-* [修改Hostname值](https://null:-1/articles/2022/01/27/1643251072876.html)
-* [confluence自启动](https://null:-1/articles/2022/01/21/1642779793133.html)
-* [Spring的30个关键类](https://null:-1/articles/2022/01/20/1642672101433.html)
-* [vmware添加硬盘识别问题](https://null:-1/articles/2022/01/04/1641281074919.html)
 
 
 
