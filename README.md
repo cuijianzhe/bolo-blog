@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [MyBatis(2)的体系结构与核心工作原理分析](https://null:-1/articles/2022/04/11/1649659873822.html)
+* [MyBatis(1)高级应用](https://null:-1/articles/2022/04/11/1649659669550.html)
 * [树(4)平衡二叉树AVL](https://null:-1/articles/2022/04/08/1649399935384.html)
 * [树(5)红黑树](https://null:-1/articles/2022/04/08/1649401112733.html)
 * [树(6)哈夫曼树](https://null:-1/articles/2022/04/08/1649401258520.html)
@@ -28,8 +30,6 @@
 * [垃圾回收算法及收集器](https://null:-1/articles/2022/03/28/1648452572811.html)
 * [TCP三次握手与四次挥手](https://null:-1/articles/2022/03/24/1648101463008.html)
 * [分析linux的java进程的dump文件](https://null:-1/articles/2022/03/15/1647327044536.html)
-* [（转）雪花算法snowflake](https://null:-1/articles/2022/03/14/1647248989971.html)
-* [Synchronized和Lock怎么选?](https://null:-1/articles/2022/02/28/1646026876357.html)
 
 
 
