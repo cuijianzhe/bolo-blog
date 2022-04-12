@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [线程池的原理分析](https://null:-1/articles/2022/04/11/1649663914943.html)
 * [MyBatis(2)的体系结构与核心工作原理分析](https://null:-1/articles/2022/04/11/1649659873822.html)
 * [MyBatis(1)高级应用](https://null:-1/articles/2022/04/11/1649659669550.html)
 * [树(4)平衡二叉树AVL](https://null:-1/articles/2022/04/08/1649399935384.html)
@@ -29,7 +30,6 @@
 * [你怎么理解AQS？](https://null:-1/articles/2022/03/29/1648540935167.html)
 * [垃圾回收算法及收集器](https://null:-1/articles/2022/03/28/1648452572811.html)
 * [TCP三次握手与四次挥手](https://null:-1/articles/2022/03/24/1648101463008.html)
-* [分析linux的java进程的dump文件](https://null:-1/articles/2022/03/15/1647327044536.html)
 
 
 
