@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [kafka简单了解](https://null:-1/articles/2022/04/12/1649756136376.html)
+* [RabbitMQ](https://null:-1/articles/2022/04/12/1649754076067.html)
 * [线程池的原理分析](https://null:-1/articles/2022/04/11/1649663914943.html)
 * [MyBatis(2)的体系结构与核心工作原理分析](https://null:-1/articles/2022/04/11/1649659873822.html)
 * [MyBatis(1)高级应用](https://null:-1/articles/2022/04/11/1649659669550.html)
@@ -28,8 +30,6 @@
 * [SpringMVC执行流程和源码分析](https://null:-1/articles/2022/03/30/1648631492926.html)
 * [Spring事务传播属性和隔离级别](https://null:-1/articles/2022/03/30/1648625942278.html)
 * [你怎么理解AQS？](https://null:-1/articles/2022/03/29/1648540935167.html)
-* [垃圾回收算法及收集器](https://null:-1/articles/2022/03/28/1648452572811.html)
-* [TCP三次握手与四次挥手](https://null:-1/articles/2022/03/24/1648101463008.html)
 
 
 
