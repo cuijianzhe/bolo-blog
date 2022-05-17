@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [Mybatis的Ognl上下文和变量解析器](https://null:-1/articles/2022/05/17/1652767269945.html)
+* [领域驱动设计DDD](https://null:-1/articles/2022/05/16/1652693849412.html)
 * [kafka简单了解](https://null:-1/articles/2022/04/12/1649756136376.html)
 * [RabbitMQ](https://null:-1/articles/2022/04/12/1649754076067.html)
 * [线程池的原理分析](https://null:-1/articles/2022/04/11/1649663914943.html)
@@ -28,8 +30,6 @@
 * [java线上故障排查方案](https://null:-1/articles/2022/03/31/1648720724120.html)
 * [面试官：用过Linux吗？](https://null:-1/articles/2022/03/31/1648709836067.html)
 * [SpringMVC执行流程和源码分析](https://null:-1/articles/2022/03/30/1648631492926.html)
-* [Spring事务传播属性和隔离级别](https://null:-1/articles/2022/03/30/1648625942278.html)
-* [你怎么理解AQS？](https://null:-1/articles/2022/03/29/1648540935167.html)
 
 
 
